@@ -33,7 +33,7 @@ public class SettingActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_setting);
 
-//        Data.getSetting(this);5465464654
+//        Data.getSetting(this);
 
         show_disabled_courses=(CheckBox)findViewById(R.id.check_disabled_courses);
         edit_thisWeek=(EditText)findViewById(R.id.edit_this_week);
